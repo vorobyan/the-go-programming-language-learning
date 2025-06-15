@@ -1,0 +1,113 @@
+0.15s   18703 https://www.google.com/?hl=ru
+0.26s   62937 https://go.dev
+0.28s   50002 https://pkg.go.dev/golang.org/x/tools/cmd/godoc
+0.28s elapsed
+0.14s   19108 https://www.google.com/?hl=ru
+0.27s   62937 https://go.dev
+0.28s   50002 https://pkg.go.dev/golang.org/x/tools/cmd/godoc
+0.28s elapsed
+0.15s   19144 https://www.google.com/?hl=ru
+0.26s   62937 https://go.dev
+0.31s   50002 https://pkg.go.dev/golang.org/x/tools/cmd/godoc
+0.31s elapsed
+0.14s   18683 https://www.google.com/?hl=ru
+0.26s   62937 https://go.dev
+0.29s   50002 https://pkg.go.dev/golang.org/x/tools/cmd/godoc
+0.29s elapsed
+Get "https://example.nonexistent": dial tcp: lookup example.nonexistent: no such host
+0.19s      23 https://www.yahoo.com
+0.19s     919 https://www.venmo.com
+0.20s    8419 https://www.gizmodo.com
+0.20s      48 https://www.indeed.com
+0.20s     369 https://www.expedia.com
+0.20s   57908 https://www.behance.net
+0.20s     919 https://www.lyft.com
+0.20s    8528 https://www.skillshare.com
+0.20s    8548 https://www.glassdoor.com
+0.20s    8501 https://www.udemy.com
+0.21s   20048 https://www.google.com
+0.21s       0 https://www.target.com
+0.22s   59386 https://www.cdc.gov
+Get "https://www.accuweather.com": stream error: stream ID 1; INTERNAL_ERROR; received from peer
+0.26s  186909 https://www.apple.com
+0.26s    5776 https://www.zillow.com
+0.26s  117663 https://www.who.int
+0.27s       7 https://www.adobe.com
+0.27s    8507 https://www.codecademy.com
+0.27s     919 https://www.edx.org
+0.28s  163283 https://www.twitch.tv
+0.28s      48 https://www.weather.com
+0.28s     736 https://www.etsy.com
+Get "https://www.netflix.com": stream error: stream ID 1; CANCEL; received from peer
+0.28s  283412 https://www.walmart.com
+0.28s    4457 https://www.fifa.com
+0.28s   91331 https://www.wikipedia.org
+0.28s  785415 https://www.polygon.com
+0.30s     118 https://www.imdb.com
+0.30s  876567 https://www.theverge.com
+0.30s  149076 https://www.microsoft.com
+0.30s    6591 https://www.amazon.com
+0.31s    1337 https://www.realtor.com
+0.31s   44789 https://www.flickr.com
+0.31s  399898 https://www.w3schools.com
+0.32s  806641 https://www.huffpost.com
+0.33s     743 https://www.tripadvisor.com
+0.35s 1280082 https://www.shazam.com
+0.36s     365 https://www.nba.com
+0.36s      14 https://www.uber.com
+0.36s  625368 https://www.youtube.com
+0.36s     939 https://www.aliexpress.com
+0.36s  325593 https://www.engadget.com
+0.37s 1278393 https://www.nytimes.com
+0.38s    7878 https://www.deezer.com
+0.38s   63126 https://www.alibaba.com
+0.39s  431629 https://www.techcrunch.com
+0.40s   15157 https://www.grubhub.com
+0.41s  117078 https://www.tumblr.com
+0.41s  155113 https://www.khanacademy.org
+0.42s 1927426 https://www.buzzfeed.com
+0.42s 1331229 https://www.mayoclinic.org
+0.43s  456969 https://www.ted.com
+0.45s  159622 https://www.discord.com
+0.46s     425 https://www.nfl.com
+0.46s     369 https://www.bestbuy.com
+0.47s  117713 https://www.last.fm
+0.52s     371 https://www.homedepot.com
+0.52s  168646 https://www.blogger.com
+0.52s 1547558 https://www.cnet.com
+0.57s       0 https://www.kotaku.com
+0.57s  287357 https://www.github.com
+0.58s 3376194 https://www.cnn.com
+0.59s  362678 https://www.webmd.com
+0.59s    5064 https://www.lowes.com
+0.62s  428000 https://www.airbnb.com
+0.64s   61373 https://www.nih.gov
+0.68s   23953 https://www.spotify.com
+0.69s  354984 https://www.wordpress.com
+while reading https://www.ebay.com: gzip: invalid header
+0.73s   87813 https://www.paypal.com
+0.76s  228474 https://www.slack.com
+0.81s  452742 https://www.dropbox.com
+0.83s    4516 https://www.mashable.com
+0.83s  945446 https://www.deviantart.com
+0.83s  233359 https://www.espn.com
+0.85s 1705255 https://www.mlb.com
+0.89s  380561 https://www.freecodecamp.org
+0.92s  422441 https://www.pinterest.com
+0.99s   17549 https://www.pandora.com
+1.02s  697678 https://www.booking.com
+1.04s  317247 https://www.dribbble.com
+1.24s  581746 https://www.vimeo.com
+1.34s 1152648 https://www.boredpanda.com
+1.35s  639484 https://www.reddit.com
+1.53s    5458 https://www.doordash.com
+1.89s  360217 https://www.stackoverflow.com
+1.90s   56770 https://www.craigslist.org
+5.60s     323 https://httpbin.org/delay/5
+Get "https://www.vice.com": net/http: TLS handshake timeout
+Get "https://www.bbc.com": net/http: TLS handshake timeout
+Get "https://www.coursera.org": net/http: TLS handshake timeout
+Get "https://soundcloud.com/": net/http: TLS handshake timeout
+Get "https://www.monster.com": dial tcp: lookup www.monster.com: no such host
+16.92s    3194 https://www.ign.com
+21.07s elapsed
